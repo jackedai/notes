@@ -1,13 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="e1716b69-6865-4d32-bd32-289c0056a4ed" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/garbage_collection.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/garbage_collection.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/optimizations.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -43,6 +55,10 @@
       <workItem from="1609481068311" duration="6586000" />
       <workItem from="1609487675484" duration="1735000" />
       <workItem from="1609489639414" duration="4318000" />
+      <workItem from="1609502600514" duration="2917000" />
+      <workItem from="1609548436586" duration="6850000" />
+      <workItem from="1609555544983" duration="55000" />
+      <workItem from="1609555606339" duration="329000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1609481304863</created>
