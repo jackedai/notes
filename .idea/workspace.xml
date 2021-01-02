@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e1716b69-6865-4d32-bd32-289c0056a4ed" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python/numeric_types.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/python/numeric_types.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python/optimizations.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/python/optimizations.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="e1716b69-6865-4d32-bd32-289c0056a4ed" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -63,7 +59,7 @@
       <workItem from="1609502600514" duration="2917000" />
       <workItem from="1609548436586" duration="6850000" />
       <workItem from="1609555544983" duration="55000" />
-      <workItem from="1609555606339" duration="16337000" />
+      <workItem from="1609555606339" duration="16650000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1609481304863</created>
@@ -100,7 +96,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609565365709</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Test TOC">
+      <created>1609627340599</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1609627340599</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -120,6 +123,7 @@
     <MESSAGE value="Adding files" />
     <MESSAGE value="Garbage collection fixes" />
     <MESSAGE value="Added optimizations" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added optimizations" />
+    <MESSAGE value="Test TOC" />
+    <option name="LAST_COMMIT_MESSAGE" value="Test TOC" />
   </component>
 </project>
