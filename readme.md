@@ -10,5 +10,6 @@ All credit goes to the tutors that I'm developing these notes from:
 + [Garbage Collection](python/garbage_collection.ipynb)
 + [Optimizations](python/optimizations.ipynb)
 + [Numeric Types](python/numeric_types.ipynb)
++ [Multiprocessing](python/mp.ipynb)
 
 <a name="intro"></a>
